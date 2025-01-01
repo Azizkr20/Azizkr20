@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center">I’m a Computer Engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qfzl298z002jd37n1ltlkhxd4s0c4aawz71m4lw7&ep=v1_gifs_search&rid=200w.gif&ct=g">
