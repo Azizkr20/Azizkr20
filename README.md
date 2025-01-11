@@ -33,7 +33,7 @@
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="50" height="50" style="margin: 10px;"/> 
-  </a> 
+  </a> <br>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=python" alt="python" width="50" height="50" style="margin: 10px;"/> 
