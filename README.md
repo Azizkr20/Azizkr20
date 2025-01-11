@@ -13,6 +13,45 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
+<p align="left" style="background-color: black; padding: 15px; border-radius: 10px;">
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+  <!-- C++ -->
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=python" alt="python" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+  <!-- SQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50" style="margin: 10px;"/> 
+  </a> 
+</p>
